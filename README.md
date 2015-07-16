@@ -1,3 +1,7 @@
 Malom
 
-Classic Nine Man's Morris (Malom) game for two players.
+Klasszikus Malom játék két személyre.
+
+Classic Nine Men's Morris (Malom) game for two players.
+
+
